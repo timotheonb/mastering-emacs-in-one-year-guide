@@ -1,19 +1,19 @@
 * Master Emacs in One Year
 ** English version
-Guide on how to master Emacs in one year.
+A Guide on How to Master Emacs in One Year.
 
 The critical question is whether one year is enough.
 
 My answer is a big YES, if you know how to do it efficiently!
 
 Here are the tips *for your first year*:
-- Set the standard to the highest
+- Set your standard to your highest
 - DON'T create your own setup
 - Report bugs to the master
 - DON'T learn Lisp
 - DON'T remember key bindings
 
-Emacs Lisp has nothing to do with your IQ. So don't feel pressured to master it asap. As I have observed, most people (including me) dislike language with unfamiliar syntax. That's ok. Start from using Emacs, you will feel the love for Emacs, then comes the love for Lisp naturally.
+Emacs Lisp has nothing to do with your IQ. So don't feel pressured to master it asap. I have observed that most people (including myself) dislike language with unfamiliar syntax. That's ok. When you start using Emacs, you will fall in love with it, and learning to love Lisp will follow naturally.
 
 Click [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org][HERE]] to read it.
 
@@ -33,7 +33,7 @@ Lisp和你的IQ毫无关系.不要急着学它.据我观察,大多数人(包括�
 
 [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org][点击这里查看]].
 
-* Practical guide to use Gnus with Gmail
+* A Practical Guide to Use Gnus with Gmail
 ** English version
 Gnus is the default Email client of Emacs. No technical details involved.
 
